@@ -1,0 +1,1418 @@
+[
+  {
+    "City": "Tokyo",
+    "Latitude": 35.6897,
+    "Longitude": 139.6922,
+    "Country": "Japan",
+    "PixelX": 568.3416889,
+    "PixelY": 96.55164444
+  },
+  {
+    "City": "Jakarta",
+    "Latitude": -6.2146,
+    "Longitude": 106.8451,
+    "Country": "Indonesia",
+    "PixelX": 509.9468444,
+    "PixelY": 171.0481778
+  },
+  {
+    "City": "Delhi",
+    "Latitude": 28.66,
+    "Longitude": 77.23,
+    "Country": "India",
+    "PixelX": 457.2977778,
+    "PixelY": 109.0488889
+  },
+  {
+    "City": "Mumbai",
+    "Latitude": 18.9667,
+    "Longitude": 72.8333,
+    "Country": "India",
+    "PixelX": 449.4814222,
+    "PixelY": 126.2814222
+  },
+  {
+    "City": "Manila",
+    "Latitude": 14.6,
+    "Longitude": 120.9833,
+    "Country": "Philippines",
+    "PixelX": 535.0814222,
+    "PixelY": 134.0444444
+  },
+  {
+    "City": "Shanghai",
+    "Latitude": 31.1667,
+    "Longitude": 121.4667,
+    "Country": "China",
+    "PixelX": 535.9408,
+    "PixelY": 104.5925333
+  },
+  {
+    "City": "São Paulo",
+    "Latitude": -23.5504,
+    "Longitude": -46.6339,
+    "Country": "Brazil",
+    "PixelX": 237.0952889,
+    "PixelY": 201.8673778
+  },
+  {
+    "City": "Seoul",
+    "Latitude": 37.56,
+    "Longitude": 126.99,
+    "Country": "Korea, South",
+    "PixelX": 545.76,
+    "PixelY": 93.22666667
+  },
+  {
+    "City": "Mexico City",
+    "Latitude": 19.4333,
+    "Longitude": -99.1333,
+    "Country": "Mexico",
+    "PixelX": 143.7630222,
+    "PixelY": 125.4519111
+  },
+  {
+    "City": "Guangzhou",
+    "Latitude": 23.1288,
+    "Longitude": 113.259,
+    "Country": "China",
+    "PixelX": 521.3493333,
+    "PixelY": 118.8821333
+  },
+  {
+    "City": "Beijing",
+    "Latitude": 39.905,
+    "Longitude": 116.3914,
+    "Country": "China",
+    "PixelX": 526.9180444,
+    "PixelY": 89.05777778
+  },
+  {
+    "City": "Cairo",
+    "Latitude": 30.0561,
+    "Longitude": 31.2394,
+    "Country": "Egypt",
+    "PixelX": 375.5367111,
+    "PixelY": 106.5669333
+  },
+  {
+    "City": "New York",
+    "Latitude": 40.6943,
+    "Longitude": -73.9249,
+    "Country": "United States",
+    "PixelX": 188.5779556,
+    "PixelY": 87.65457778
+  },
+  {
+    "City": "Kolkata",
+    "Latitude": 22.5411,
+    "Longitude": 88.3378,
+    "Country": "India",
+    "PixelX": 477.0449778,
+    "PixelY": 119.9269333
+  },
+  {
+    "City": "Moscow",
+    "Latitude": 55.7558,
+    "Longitude": 37.6178,
+    "Country": "Russia",
+    "PixelX": 386.8760889,
+    "PixelY": 60.87857778
+  },
+  {
+    "City": "Bangkok",
+    "Latitude": 13.75,
+    "Longitude": 100.5167,
+    "Country": "Thailand",
+    "PixelX": 498.6963556,
+    "PixelY": 135.5555556
+  },
+  {
+    "City": "Buenos Aires",
+    "Latitude": -34.5997,
+    "Longitude": -58.3819,
+    "Country": "Argentina",
+    "PixelX": 216.2099556,
+    "PixelY": 221.5105778
+  },
+  {
+    "City": "Shenzhen",
+    "Latitude": 22.535,
+    "Longitude": 114.054,
+    "Country": "China",
+    "PixelX": 522.7626667,
+    "PixelY": 119.9377778
+  },
+  {
+    "City": "Dhaka",
+    "Latitude": 23.7289,
+    "Longitude": 90.3944,
+    "Country": "Bangladesh",
+    "PixelX": 480.7011556,
+    "PixelY": 117.8152889
+  },
+  {
+    "City": "Lagos",
+    "Latitude": 6.45,
+    "Longitude": 3.4,
+    "Country": "Nigeria",
+    "PixelX": 326.0444444,
+    "PixelY": 148.5333333
+  },
+  {
+    "City": "Istanbul",
+    "Latitude": 41.01,
+    "Longitude": 28.9603,
+    "Country": "Turkey",
+    "PixelX": 371.4849778,
+    "PixelY": 87.09333333
+  },
+  {
+    "City": "Osaka",
+    "Latitude": 34.75,
+    "Longitude": 135.4601,
+    "Country": "Japan",
+    "PixelX": 560.8179556,
+    "PixelY": 98.22222222
+  },
+  {
+    "City": "Karachi",
+    "Latitude": 24.86,
+    "Longitude": 67.01,
+    "Country": "Pakistan",
+    "PixelX": 439.1288889,
+    "PixelY": 115.8044444
+  },
+  {
+    "City": "Bangalore",
+    "Latitude": 12.9699,
+    "Longitude": 77.598,
+    "Country": "India",
+    "PixelX": 457.952,
+    "PixelY": 136.9424
+  },
+  {
+    "City": "Tehran",
+    "Latitude": 35.7,
+    "Longitude": 51.4167,
+    "Country": "Iran",
+    "PixelX": 411.4074667,
+    "PixelY": 96.53333333
+  },
+  {
+    "City": "Kinshasa",
+    "Latitude": -4.3233,
+    "Longitude": 15.3081,
+    "Country": "Congo (Kinshasa)",
+    "PixelX": 347.2144,
+    "PixelY": 167.6858667
+  },
+  {
+    "City": "Ho Chi Minh City",
+    "Latitude": 10.8167,
+    "Longitude": 106.6333,
+    "Country": "Vietnam",
+    "PixelX": 509.5703111,
+    "PixelY": 140.7703111
+  },
+  {
+    "City": "Los Angeles",
+    "Latitude": 34.1139,
+    "Longitude": -118.4068,
+    "Country": "United States",
+    "PixelX": 109.4990222,
+    "PixelY": 99.35306667
+  },
+  {
+    "City": "Rio de Janeiro",
+    "Latitude": -22.9083,
+    "Longitude": -43.1964,
+    "Country": "Brazil",
+    "PixelX": 243.2064,
+    "PixelY": 200.7258667
+  },
+  {
+    "City": "Nanyang",
+    "Latitude": 32.9987,
+    "Longitude": 112.5292,
+    "Country": "China",
+    "PixelX": 520.0519111,
+    "PixelY": 101.3356444
+  },
+  {
+    "City": "Baoding",
+    "Latitude": 38.8671,
+    "Longitude": 115.4845,
+    "Country": "China",
+    "PixelX": 525.3057778,
+    "PixelY": 90.90293333
+  },
+  {
+    "City": "Chennai",
+    "Latitude": 13.0825,
+    "Longitude": 80.275,
+    "Country": "India",
+    "PixelX": 462.7111111,
+    "PixelY": 136.7422222
+  },
+  {
+    "City": "Chengdu",
+    "Latitude": 30.66,
+    "Longitude": 104.0633,
+    "Country": "China",
+    "PixelX": 505.0014222,
+    "PixelY": 105.4933333
+  },
+  {
+    "City": "Lahore",
+    "Latitude": 31.5497,
+    "Longitude": 74.3436,
+    "Country": "Pakistan",
+    "PixelX": 452.1664,
+    "PixelY": 103.9116444
+  },
+  {
+    "City": "Paris",
+    "Latitude": 48.8566,
+    "Longitude": 2.3522,
+    "Country": "France",
+    "PixelX": 324.1816889,
+    "PixelY": 73.14382222
+  },
+  {
+    "City": "London",
+    "Latitude": 51.5072,
+    "Longitude": -0.1275,
+    "Country": "United Kingdom",
+    "PixelX": 319.7733333,
+    "PixelY": 68.43164444
+  },
+  {
+    "City": "Lima",
+    "Latitude": -12.05,
+    "Longitude": -77.0333,
+    "Country": "Peru",
+    "PixelX": 183.0519111,
+    "PixelY": 181.4222222
+  },
+  {
+    "City": "Hyderabad",
+    "Latitude": 17.3667,
+    "Longitude": 78.4667,
+    "Country": "India",
+    "PixelX": 459.4963556,
+    "PixelY": 129.1258667
+  },
+  {
+    "City": "Handan",
+    "Latitude": 36.6116,
+    "Longitude": 114.4894,
+    "Country": "China",
+    "PixelX": 523.5367111,
+    "PixelY": 94.91271111
+  },
+  {
+    "City": "Bogotá",
+    "Latitude": 4.6126,
+    "Longitude": -74.0705,
+    "Country": "Colombia",
+    "PixelX": 188.3191111,
+    "PixelY": 151.7998222
+  },
+  {
+    "City": "Nagoya",
+    "Latitude": 35.1167,
+    "Longitude": 136.9333,
+    "Country": "Japan",
+    "PixelX": 563.4369778,
+    "PixelY": 97.57031111
+  },
+  {
+    "City": "Wuhan",
+    "Latitude": 30.5872,
+    "Longitude": 114.2881,
+    "Country": "China",
+    "PixelX": 523.1788444,
+    "PixelY": 105.6227556
+  },
+  {
+    "City": "Chicago",
+    "Latitude": 41.8373,
+    "Longitude": -87.6862,
+    "Country": "United States",
+    "PixelX": 164.1134222,
+    "PixelY": 85.62257778
+  },
+  {
+    "City": "Luanda",
+    "Latitude": -8.8383,
+    "Longitude": 13.2344,
+    "Country": "Angola",
+    "PixelX": 343.5278222,
+    "PixelY": 175.7125333
+  },
+  {
+    "City": "Kuala Lumpur",
+    "Latitude": 3.1478,
+    "Longitude": 101.6953,
+    "Country": "Malaysia",
+    "PixelX": 500.7916444,
+    "PixelY": 154.4039111
+  },
+  {
+    "City": "Hanoi",
+    "Latitude": 21.0245,
+    "Longitude": 105.8412,
+    "Country": "Vietnam",
+    "PixelX": 508.1621333,
+    "PixelY": 122.6231111
+  },
+  {
+    "City": "Pune",
+    "Latitude": 18.5196,
+    "Longitude": 73.8553,
+    "Country": "India",
+    "PixelX": 451.2983111,
+    "PixelY": 127.0762667
+  },
+  {
+    "City": "Ahmedabad",
+    "Latitude": 23.03,
+    "Longitude": 72.58,
+    "Country": "India",
+    "PixelX": 449.0311111,
+    "PixelY": 119.0577778
+  },
+  {
+    "City": "Hong Kong",
+    "Latitude": 22.305,
+    "Longitude": 114.185,
+    "Country": "Hong Kong",
+    "PixelX": 522.9955556,
+    "PixelY": 120.3466667
+  },
+  {
+    "City": "Khartoum",
+    "Latitude": 15.6031,
+    "Longitude": 32.5265,
+    "Country": "Sudan",
+    "PixelX": 377.8248889,
+    "PixelY": 132.2611556
+  },
+  {
+    "City": "Santiago",
+    "Latitude": -33.45,
+    "Longitude": -70.6667,
+    "Country": "Chile",
+    "PixelX": 194.3703111,
+    "PixelY": 219.4666667
+  },
+  {
+    "City": "Riyadh",
+    "Latitude": 24.65,
+    "Longitude": 46.71,
+    "Country": "Saudi Arabia",
+    "PixelX": 403.04,
+    "PixelY": 116.1777778
+  },
+  {
+    "City": "Dar es Salaam",
+    "Latitude": -6.8,
+    "Longitude": 39.2833,
+    "Country": "Tanzania",
+    "PixelX": 389.8369778,
+    "PixelY": 172.0888889
+  },
+  {
+    "City": "Miami",
+    "Latitude": 25.7839,
+    "Longitude": -80.2102,
+    "Country": "United States",
+    "PixelX": 177.4040889,
+    "PixelY": 114.1619556
+  },
+  {
+    "City": "Madrid",
+    "Latitude": 40.4167,
+    "Longitude": -3.7167,
+    "Country": "Spain",
+    "PixelX": 313.3925333,
+    "PixelY": 88.14808889
+  },
+  {
+    "City": "Surat",
+    "Latitude": 21.17,
+    "Longitude": 72.83,
+    "Country": "India",
+    "PixelX": 449.4755556,
+    "PixelY": 122.3644444
+  },
+  {
+    "City": "Baghdad",
+    "Latitude": 33.35,
+    "Longitude": 44.4167,
+    "Country": "Iraq",
+    "PixelX": 398.9630222,
+    "PixelY": 100.7111111
+  },
+  {
+    "City": "Singapore",
+    "Latitude": 1.3,
+    "Longitude": 103.8,
+    "Country": "Singapore",
+    "PixelX": 504.5333333,
+    "PixelY": 157.6888889
+  },
+  {
+    "City": "Dallas",
+    "Latitude": 32.7936,
+    "Longitude": -96.7662,
+    "Country": "United States",
+    "PixelX": 147.9712,
+    "PixelY": 101.7002667
+  },
+  {
+    "City": "Philadelphia",
+    "Latitude": 40.0077,
+    "Longitude": -75.1339,
+    "Country": "United States",
+    "PixelX": 186.4286222,
+    "PixelY": 88.8752
+  },
+  {
+    "City": "Giza",
+    "Latitude": 29.987,
+    "Longitude": 31.2118,
+    "Country": "Egypt",
+    "PixelX": 375.4876444,
+    "PixelY": 106.6897778
+  },
+  {
+    "City": "Nairobi",
+    "Latitude": -1.2864,
+    "Longitude": 36.8172,
+    "Country": "Kenya",
+    "PixelX": 385.4528,
+    "PixelY": 162.2869333
+  },
+  {
+    "City": "Ankara",
+    "Latitude": 39.93,
+    "Longitude": 32.85,
+    "Country": "Turkey",
+    "PixelX": 378.4,
+    "PixelY": 89.01333333
+  },
+  {
+    "City": "Houston",
+    "Latitude": 29.7863,
+    "Longitude": -95.3889,
+    "Country": "United States",
+    "PixelX": 150.4197333,
+    "PixelY": 107.0465778
+  },
+  {
+    "City": "Atlanta",
+    "Latitude": 33.7627,
+    "Longitude": -84.4224,
+    "Country": "United States",
+    "PixelX": 169.9157333,
+    "PixelY": 99.97742222
+  },
+  {
+    "City": "Rangoon",
+    "Latitude": 16.8,
+    "Longitude": 96.15,
+    "Country": "Myanmar",
+    "PixelX": 490.9333333,
+    "PixelY": 130.1333333
+  },
+  {
+    "City": "Toronto",
+    "Latitude": 43.7417,
+    "Longitude": -79.3733,
+    "Country": "Canada",
+    "PixelX": 178.8919111,
+    "PixelY": 82.23697778
+  },
+  {
+    "City": "Washington",
+    "Latitude": 38.9047,
+    "Longitude": -77.0163,
+    "Country": "United States",
+    "PixelX": 183.0821333,
+    "PixelY": 90.83608889
+  },
+  {
+    "City": "Saint Petersburg",
+    "Latitude": 59.95,
+    "Longitude": 30.3167,
+    "Country": "Russia",
+    "PixelX": 373.8963556,
+    "PixelY": 53.42222222
+  },
+  {
+    "City": "Sydney",
+    "Latitude": -33.865,
+    "Longitude": 151.2094,
+    "Country": "Australia",
+    "PixelX": 588.8167111,
+    "PixelY": 220.2044444
+  },
+  {
+    "City": "Guadalajara",
+    "Latitude": 20.6767,
+    "Longitude": -103.3475,
+    "Country": "Mexico",
+    "PixelX": 136.2711111,
+    "PixelY": 123.2414222
+  },
+  {
+    "City": "Melbourne",
+    "Latitude": -37.8136,
+    "Longitude": 144.9631,
+    "Country": "Australia",
+    "PixelX": 577.7121778,
+    "PixelY": 227.2241778
+  },
+  {
+    "City": "Surabaya",
+    "Latitude": -7.2458,
+    "Longitude": 112.7378,
+    "Country": "Indonesia",
+    "PixelX": 520.4227556,
+    "PixelY": 172.8814222
+  },
+  {
+    "City": "Abidjan",
+    "Latitude": 5.3364,
+    "Longitude": -4.0267,
+    "Country": "Côte D’Ivoire",
+    "PixelX": 312.8414222,
+    "PixelY": 150.5130667
+  },
+  {
+    "City": "Alexandria",
+    "Latitude": 31.2,
+    "Longitude": 29.9167,
+    "Country": "Egypt",
+    "PixelX": 373.1852444,
+    "PixelY": 104.5333333
+  },
+  {
+    "City": "Boston",
+    "Latitude": 42.3188,
+    "Longitude": -71.0846,
+    "Country": "United States",
+    "PixelX": 193.6273778,
+    "PixelY": 84.76657778
+  },
+  {
+    "City": "Barcelona",
+    "Latitude": 41.3825,
+    "Longitude": 2.1769,
+    "Country": "Spain",
+    "PixelX": 323.8700444,
+    "PixelY": 86.43111111
+  },
+  {
+    "City": "Johannesburg",
+    "Latitude": -26.2044,
+    "Longitude": 28.0416,
+    "Country": "South Africa",
+    "PixelX": 369.8517333,
+    "PixelY": 206.5856
+  },
+  {
+    "City": "Casablanca",
+    "Latitude": 33.5992,
+    "Longitude": -7.62,
+    "Country": "Morocco",
+    "PixelX": 306.4533333,
+    "PixelY": 100.2680889
+  },
+  {
+    "City": "Monterrey",
+    "Latitude": 25.6667,
+    "Longitude": -100.3,
+    "Country": "Mexico",
+    "PixelX": 141.6888889,
+    "PixelY": 114.3703111
+  },
+  {
+    "City": "Phoenix",
+    "Latitude": 33.5722,
+    "Longitude": -112.0891,
+    "Country": "United States",
+    "PixelX": 120.7304889,
+    "PixelY": 100.3160889
+  },
+  {
+    "City": "Amman",
+    "Latitude": 31.95,
+    "Longitude": 35.9333,
+    "Country": "Jordan",
+    "PixelX": 383.8814222,
+    "PixelY": 103.2
+  },
+  {
+    "City": "Jeddah",
+    "Latitude": 21.5428,
+    "Longitude": 39.1728,
+    "Country": "Saudi Arabia",
+    "PixelX": 389.6405333,
+    "PixelY": 121.7016889
+  },
+  {
+    "City": "Seattle",
+    "Latitude": 47.6211,
+    "Longitude": -122.3244,
+    "Country": "United States",
+    "PixelX": 102.5344,
+    "PixelY": 75.34026667
+  },
+  {
+    "City": "Yokohama",
+    "Latitude": 35.4333,
+    "Longitude": 139.6333,
+    "Country": "Japan",
+    "PixelX": 568.2369778,
+    "PixelY": 97.00746667
+  },
+  {
+    "City": "Kabul",
+    "Latitude": 34.5328,
+    "Longitude": 69.1658,
+    "Country": "Afghanistan",
+    "PixelX": 442.9614222,
+    "PixelY": 98.60835556
+  },
+  {
+    "City": "Berlin",
+    "Latitude": 52.5167,
+    "Longitude": 13.3833,
+    "Country": "Germany",
+    "PixelX": 343.7925333,
+    "PixelY": 66.63697778
+  },
+  {
+    "City": "San Francisco",
+    "Latitude": 37.7562,
+    "Longitude": -122.443,
+    "Country": "United States",
+    "PixelX": 102.3235556,
+    "PixelY": 92.87786667
+  },
+  {
+    "City": "Montréal",
+    "Latitude": 45.5089,
+    "Longitude": -73.5617,
+    "Country": "Canada",
+    "PixelX": 189.2236444,
+    "PixelY": 79.09528889
+  },
+  {
+    "City": "Detroit",
+    "Latitude": 42.3834,
+    "Longitude": -83.1024,
+    "Country": "United States",
+    "PixelX": 172.2624,
+    "PixelY": 84.65173333
+  },
+  {
+    "City": "Busan",
+    "Latitude": 35.1,
+    "Longitude": 129.0403,
+    "Country": "Korea, South",
+    "PixelX": 549.4049778,
+    "PixelY": 97.6
+  },
+  {
+    "City": "Algiers",
+    "Latitude": 36.7764,
+    "Longitude": 3.0586,
+    "Country": "Algeria",
+    "PixelX": 325.4375111,
+    "PixelY": 94.61973333
+  },
+  {
+    "City": "Lucknow",
+    "Latitude": 26.847,
+    "Longitude": 80.947,
+    "Country": "India",
+    "PixelX": 463.9057778,
+    "PixelY": 112.272
+  },
+  {
+    "City": "San Diego",
+    "Latitude": 32.8312,
+    "Longitude": -117.1225,
+    "Country": "United States",
+    "PixelX": 111.7822222,
+    "PixelY": 101.6334222
+  },
+  {
+    "City": "Faisalabad",
+    "Latitude": 31.418,
+    "Longitude": 73.079,
+    "Country": "Pakistan",
+    "PixelX": 449.9182222,
+    "PixelY": 104.1457778
+  },
+  {
+    "City": "Santa Cruz",
+    "Latitude": -17.7892,
+    "Longitude": -63.1975,
+    "Country": "Bolivia",
+    "PixelX": 207.6488889,
+    "PixelY": 191.6252444
+  },
+  {
+    "City": "Jaipur",
+    "Latitude": 26.9167,
+    "Longitude": 75.8667,
+    "Country": "India",
+    "PixelX": 454.8741333,
+    "PixelY": 112.1480889
+  },
+  {
+    "City": "Addis Ababa",
+    "Latitude": 9.0272,
+    "Longitude": 38.7369,
+    "Country": "Ethiopia",
+    "PixelX": 388.8656,
+    "PixelY": 143.9516444
+  },
+  {
+    "City": "Brasília",
+    "Latitude": -15.7939,
+    "Longitude": -47.8828,
+    "Country": "Brazil",
+    "PixelX": 234.8750222,
+    "PixelY": 188.0780444
+  },
+  {
+    "City": "Mashhad",
+    "Latitude": 36.3069,
+    "Longitude": 59.6042,
+    "Country": "Iran",
+    "PixelX": 425.9630222,
+    "PixelY": 95.4544
+  },
+  {
+    "City": "Shaoguan",
+    "Latitude": 24.8011,
+    "Longitude": 113.5927,
+    "Country": "China",
+    "PixelX": 521.9425778,
+    "PixelY": 115.9091556
+  },
+  {
+    "City": "Kuwait City",
+    "Latitude": 29.375,
+    "Longitude": 47.98,
+    "Country": "Kuwait",
+    "PixelX": 405.2977778,
+    "PixelY": 107.7777778
+  },
+  {
+    "City": "Minneapolis",
+    "Latitude": 44.9635,
+    "Longitude": -93.2678,
+    "Country": "United States",
+    "PixelX": 154.1905778,
+    "PixelY": 80.06488889
+  },
+  {
+    "City": "Kyiv",
+    "Latitude": 50.45,
+    "Longitude": 30.5236,
+    "Country": "Ukraine",
+    "PixelX": 374.2641778,
+    "PixelY": 70.31111111
+  },
+  {
+    "City": "Sanaa",
+    "Latitude": 15.35,
+    "Longitude": 44.2,
+    "Country": "Yemen",
+    "PixelX": 398.5777778,
+    "PixelY": 132.7111111
+  },
+  {
+    "City": "Quezon City",
+    "Latitude": 14.6333,
+    "Longitude": 121.0333,
+    "Country": "Philippines",
+    "PixelX": 535.1703111,
+    "PixelY": 133.9852444
+  },
+  {
+    "City": "Incheon",
+    "Latitude": 37.4639,
+    "Longitude": 126.6486,
+    "Country": "Korea, South",
+    "PixelX": 545.1530667,
+    "PixelY": 93.39751111
+  },
+  {
+    "City": "Bursa",
+    "Latitude": 40.1833,
+    "Longitude": 29.0667,
+    "Country": "Turkey",
+    "PixelX": 371.6741333,
+    "PixelY": 88.56302222
+  },
+  {
+    "City": "Tampa",
+    "Latitude": 27.9942,
+    "Longitude": -82.4451,
+    "Country": "United States",
+    "PixelX": 173.4309333,
+    "PixelY": 110.2325333
+  },
+  {
+    "City": "Birmingham",
+    "Latitude": 52.48,
+    "Longitude": -1.9025,
+    "Country": "United Kingdom",
+    "PixelX": 316.6177778,
+    "PixelY": 66.70222222
+  },
+  {
+    "City": "Salvador",
+    "Latitude": -12.9708,
+    "Longitude": -38.5108,
+    "Country": "Brazil",
+    "PixelX": 251.5363556,
+    "PixelY": 183.0592
+  },
+  {
+    "City": "Denver",
+    "Latitude": 39.7621,
+    "Longitude": -104.8759,
+    "Country": "United States",
+    "PixelX": 133.5539556,
+    "PixelY": 89.31182222
+  },
+  {
+    "City": "Rome",
+    "Latitude": 41.8931,
+    "Longitude": 12.4828,
+    "Country": "Italy",
+    "PixelX": 342.1916444,
+    "PixelY": 85.52337778
+  },
+  {
+    "City": "La Paz",
+    "Latitude": -16.4942,
+    "Longitude": -68.1475,
+    "Country": "Bolivia",
+    "PixelX": 198.8488889,
+    "PixelY": 189.3230222
+  },
+  {
+    "City": "Pyongyang",
+    "Latitude": 39.03,
+    "Longitude": 125.73,
+    "Country": "Korea, North",
+    "PixelX": 543.52,
+    "PixelY": 90.61333333
+  },
+  {
+    "City": "Kano",
+    "Latitude": 12,
+    "Longitude": 8.5167,
+    "Country": "Nigeria",
+    "PixelX": 335.1408,
+    "PixelY": 138.6666667
+  },
+  {
+    "City": "Taichung",
+    "Latitude": 24.15,
+    "Longitude": 120.6667,
+    "Country": "Taiwan",
+    "PixelX": 534.5185778,
+    "PixelY": 117.0666667
+  },
+  {
+    "City": "Omdurman",
+    "Latitude": 15.6835,
+    "Longitude": 32.4629,
+    "Country": "Sudan",
+    "PixelX": 377.7118222,
+    "PixelY": 132.1182222
+  },
+  {
+    "City": "Kaohsiung",
+    "Latitude": 22.6167,
+    "Longitude": 120.3,
+    "Country": "Taiwan",
+    "PixelX": 533.8666667,
+    "PixelY": 119.7925333
+  },
+  {
+    "City": "Guayaquil",
+    "Latitude": -2.1833,
+    "Longitude": -79.8833,
+    "Country": "Ecuador",
+    "PixelX": 177.9852444,
+    "PixelY": 163.8814222
+  },
+  {
+    "City": "Manchester",
+    "Latitude": 53.4794,
+    "Longitude": -2.2453,
+    "Country": "United Kingdom",
+    "PixelX": 316.0083556,
+    "PixelY": 64.92551111
+  },
+  {
+    "City": "Taipei",
+    "Latitude": 25.0478,
+    "Longitude": 121.5319,
+    "Country": "Taiwan",
+    "PixelX": 536.0567111,
+    "PixelY": 115.4705778
+  },
+  {
+    "City": "Ibadan",
+    "Latitude": 7.3964,
+    "Longitude": 3.9167,
+    "Country": "Nigeria",
+    "PixelX": 326.9630222,
+    "PixelY": 146.8508444
+  },
+  {
+    "City": "Antananarivo",
+    "Latitude": -18.9386,
+    "Longitude": 47.5214,
+    "Country": "Madagascar",
+    "PixelX": 404.4824889,
+    "PixelY": 193.6686222
+  },
+  {
+    "City": "Chattogram",
+    "Latitude": 22.335,
+    "Longitude": 91.8325,
+    "Country": "Bangladesh",
+    "PixelX": 483.2577778,
+    "PixelY": 120.2933333
+  },
+  {
+    "City": "Santo Domingo",
+    "Latitude": 18.4764,
+    "Longitude": -69.8933,
+    "Country": "Dominican Republic",
+    "PixelX": 195.7452444,
+    "PixelY": 127.1530667
+  },
+  {
+    "City": "Brooklyn",
+    "Latitude": 40.6501,
+    "Longitude": -73.9496,
+    "Country": "United States",
+    "PixelX": 188.5340444,
+    "PixelY": 87.73315556
+  },
+  {
+    "City": "Medellín",
+    "Latitude": 6.2447,
+    "Longitude": -75.5748,
+    "Country": "Colombia",
+    "PixelX": 185.6448,
+    "PixelY": 148.8983111
+  },
+  {
+    "City": "Brisbane",
+    "Latitude": -27.4678,
+    "Longitude": 153.0281,
+    "Country": "Australia",
+    "PixelX": 592.0499556,
+    "PixelY": 208.8316444
+  },
+  {
+    "City": "Dubai",
+    "Latitude": 25.2697,
+    "Longitude": 55.3094,
+    "Country": "United Arab Emirates",
+    "PixelX": 418.3278222,
+    "PixelY": 115.0760889
+  },
+  {
+    "City": "Cali",
+    "Latitude": 3.44,
+    "Longitude": -76.5197,
+    "Country": "Colombia",
+    "PixelX": 183.9649778,
+    "PixelY": 153.8844444
+  },
+  {
+    "City": "Daegu",
+    "Latitude": 35.8667,
+    "Longitude": 128.6,
+    "Country": "Korea, South",
+    "PixelX": 548.6222222,
+    "PixelY": 96.23697778
+  },
+  {
+    "City": "Fortaleza",
+    "Latitude": -3.7275,
+    "Longitude": -38.5275,
+    "Country": "Brazil",
+    "PixelX": 251.5066667,
+    "PixelY": 166.6266667
+  },
+  {
+    "City": "Guatemala City",
+    "Latitude": 14.6099,
+    "Longitude": -90.5252,
+    "Country": "Guatemala",
+    "PixelX": 159.0663111,
+    "PixelY": 134.0268444
+  },
+  {
+    "City": "Yaoundé",
+    "Latitude": 3.8578,
+    "Longitude": 11.5181,
+    "Country": "Cameroon",
+    "PixelX": 340.4766222,
+    "PixelY": 153.1416889
+  },
+  {
+    "City": "Douala",
+    "Latitude": 4.05,
+    "Longitude": 9.7,
+    "Country": "Cameroon",
+    "PixelX": 337.2444444,
+    "PixelY": 152.8
+  },
+  {
+    "City": "Antalya",
+    "Latitude": 36.9081,
+    "Longitude": 30.6956,
+    "Country": "Turkey",
+    "PixelX": 374.5699556,
+    "PixelY": 94.3856
+  },
+  {
+    "City": "Tashkent",
+    "Latitude": 41.3,
+    "Longitude": 69.2667,
+    "Country": "Uzbekistan",
+    "PixelX": 443.1408,
+    "PixelY": 86.57777778
+  },
+  {
+    "City": "Bandung",
+    "Latitude": -6.95,
+    "Longitude": 107.5667,
+    "Country": "Indonesia",
+    "PixelX": 511.2296889,
+    "PixelY": 172.3555556
+  },
+  {
+    "City": "Bekasi",
+    "Latitude": -6.2333,
+    "Longitude": 107,
+    "Country": "Indonesia",
+    "PixelX": 510.2222222,
+    "PixelY": 171.0814222
+  },
+  {
+    "City": "Ghaziabad",
+    "Latitude": 28.6667,
+    "Longitude": 77.4167,
+    "Country": "India",
+    "PixelX": 457.6296889,
+    "PixelY": 109.0369778
+  },
+  {
+    "City": "Tijuana",
+    "Latitude": 32.525,
+    "Longitude": -117.0333,
+    "Country": "Mexico",
+    "PixelX": 111.9408,
+    "PixelY": 102.1777778
+  },
+  {
+    "City": "Jiamusi",
+    "Latitude": 46.8081,
+    "Longitude": 130.3653,
+    "Country": "China",
+    "PixelX": 551.7605333,
+    "PixelY": 76.7856
+  },
+  {
+    "City": "Accra",
+    "Latitude": 5.6037,
+    "Longitude": -0.187,
+    "Country": "Ghana",
+    "PixelX": 319.6675556,
+    "PixelY": 150.0378667
+  },
+  {
+    "City": "Vancouver",
+    "Latitude": 49.25,
+    "Longitude": -123.1,
+    "Country": "Canada",
+    "PixelX": 101.1555556,
+    "PixelY": 72.44444444
+  },
+  {
+    "City": "Tangerang",
+    "Latitude": -6.1783,
+    "Longitude": 106.6319,
+    "Country": "Indonesia",
+    "PixelX": 509.5678222,
+    "PixelY": 170.9836444
+  },
+  {
+    "City": "Konya",
+    "Latitude": 37.8714,
+    "Longitude": 32.4847,
+    "Country": "Turkey",
+    "PixelX": 377.7505778,
+    "PixelY": 92.67306667
+  },
+  {
+    "City": "Queens",
+    "Latitude": 40.7498,
+    "Longitude": -73.7976,
+    "Country": "United States",
+    "PixelX": 188.8042667,
+    "PixelY": 87.55591111
+  },
+  {
+    "City": "Vienna",
+    "Latitude": 48.2083,
+    "Longitude": 16.3731,
+    "Country": "Austria",
+    "PixelX": 349.1077333,
+    "PixelY": 74.29635556
+  },
+  {
+    "City": "Leeds",
+    "Latitude": 53.7997,
+    "Longitude": -1.5492,
+    "Country": "United Kingdom",
+    "PixelX": 317.2458667,
+    "PixelY": 64.35608889
+  },
+  {
+    "City": "Bucharest",
+    "Latitude": 44.4,
+    "Longitude": 26.0833,
+    "Country": "Romania",
+    "PixelX": 366.3703111,
+    "PixelY": 81.06666667
+  },
+  {
+    "City": "Budapest",
+    "Latitude": 47.4983,
+    "Longitude": 19.0408,
+    "Country": "Hungary",
+    "PixelX": 353.8503111,
+    "PixelY": 75.55857778
+  },
+  {
+    "City": "Munich",
+    "Latitude": 48.1372,
+    "Longitude": 11.5755,
+    "Country": "Germany",
+    "PixelX": 340.5786667,
+    "PixelY": 74.42275556
+  },
+  {
+    "City": "Auckland",
+    "Latitude": -36.85,
+    "Longitude": 174.7833,
+    "Country": "New Zealand",
+    "PixelX": 630.7258667,
+    "PixelY": 225.5111111
+  },
+  {
+    "City": "Muscat",
+    "Latitude": 23.6139,
+    "Longitude": 58.5922,
+    "Country": "Oman",
+    "PixelX": 424.1639111,
+    "PixelY": 118.0197333
+  },
+  {
+    "City": "Sharjah",
+    "Latitude": 25.3575,
+    "Longitude": 55.3919,
+    "Country": "United Arab Emirates",
+    "PixelX": 418.4744889,
+    "PixelY": 114.92
+  },
+  {
+    "City": "Ulaanbaatar",
+    "Latitude": 47.9203,
+    "Longitude": 106.9172,
+    "Country": "Mongolia",
+    "PixelX": 510.0750222,
+    "PixelY": 74.80835556
+  },
+  {
+    "City": "Belgrade",
+    "Latitude": 44.8167,
+    "Longitude": 20.4667,
+    "Country": "Serbia",
+    "PixelX": 356.3852444,
+    "PixelY": 80.32586667
+  },
+  {
+    "City": "Milan",
+    "Latitude": 45.4669,
+    "Longitude": 9.19,
+    "Country": "Italy",
+    "PixelX": 336.3377778,
+    "PixelY": 79.16995556
+  },
+  {
+    "City": "Sofia",
+    "Latitude": 42.6979,
+    "Longitude": 23.3217,
+    "Country": "Bulgaria",
+    "PixelX": 361.4608,
+    "PixelY": 84.09262222
+  },
+  {
+    "City": "Prague",
+    "Latitude": 50.0833,
+    "Longitude": 14.4167,
+    "Country": "Czechia",
+    "PixelX": 345.6296889,
+    "PixelY": 70.96302222
+  },
+  {
+    "City": "Cordoba",
+    "Latitude": -31.4167,
+    "Longitude": -64.1833,
+    "Country": "Argentina",
+    "PixelX": 205.8963556,
+    "PixelY": 215.8519111
+  },
+  {
+    "City": "Sevilla",
+    "Latitude": 37.39,
+    "Longitude": -5.99,
+    "Country": "Spain",
+    "PixelX": 309.3511111,
+    "PixelY": 93.52888889
+  },
+  {
+    "City": "Great Wall of China",
+    "Latitude": 40.4319,
+    "Longitude": 116.5704,
+    "Country": "China",
+    "PixelX": 527.2362667,
+    "PixelY": 88.12106667
+  },
+  {
+    "City": "Great Pyramid of Egypt",
+    "Latitude": 29.9792,
+    "Longitude": 31.1342,
+    "Country": "Egypt",
+    "PixelX": 375.3496889,
+    "PixelY": 106.7036444
+  },
+  {
+    "City": "Chichen Itza",
+    "Latitude": 20.6843,
+    "Longitude": -88.5678,
+    "Country": "Mexico",
+    "PixelX": 162.5461333,
+    "PixelY": 123.2279111
+  },
+  {
+    "City": "Petra",
+    "Latitude": 30.3285,
+    "Longitude": 35.4444,
+    "Country": "Jordan",
+    "PixelX": 383.0122667,
+    "PixelY": 106.0826667
+  },
+  {
+    "City": "Machu Picchu",
+    "Latitude": -13.1631,
+    "Longitude": -72.545,
+    "Country": "Peru",
+    "PixelX": 191.0311111,
+    "PixelY": 183.4010667
+  },
+  {
+    "City": "Mount Everest",
+    "Latitude": 27.9881,
+    "Longitude": 86.925,
+    "Country": "Nepal",
+    "PixelX": 474.5333333,
+    "PixelY": 110.2433778
+  },
+  {
+    "City": "The Great Barrier Reef",
+    "Latitude": -18.2871,
+    "Longitude": 147.6992,
+    "Country": "Australia",
+    "PixelX": 582.5763556,
+    "PixelY": 192.5104
+  },
+  {
+    "City": "The Sydney Opera House",
+    "Latitude": -33.8568,
+    "Longitude": 151.2153,
+    "Country": "Australia",
+    "PixelX": 588.8272,
+    "PixelY": 220.1898667
+  },
+  {
+    "City": "Easter Island",
+    "Latitude": -27.1127,
+    "Longitude": -109.3497,
+    "Country": "Chile",
+    "PixelX": 125.6005333,
+    "PixelY": 208.2003556
+  },
+  {
+    "City": "Stonehenge",
+    "Latitude": 51.1789,
+    "Longitude": -1.8262,
+    "Country": "England",
+    "PixelX": 316.7534222,
+    "PixelY": 69.01528889
+  },
+  {
+    "City": "Yellowstone National Park",
+    "Latitude": 44.428,
+    "Longitude": -110.5885,
+    "Country": "United States",
+    "PixelX": 123.3982222,
+    "PixelY": 81.01688889
+  },
+  {
+    "City": "Eiffel Tower",
+    "Latitude": 48.8584,
+    "Longitude": 2.2945,
+    "Country": "France",
+    "PixelX": 324.0791111,
+    "PixelY": 73.14062222
+  },
+  {
+    "City": "Statue of Liberty",
+    "Latitude": 40.6892,
+    "Longitude": -74.0445,
+    "Country": "United States",
+    "PixelX": 188.3653333,
+    "PixelY": 87.66364444
+  },
+  {
+    "City": "Mount Fuji",
+    "Latitude": 35.3606,
+    "Longitude": 138.7274,
+    "Country": "Japan",
+    "PixelX": 566.6264889,
+    "PixelY": 97.13671111
+  }
+]
